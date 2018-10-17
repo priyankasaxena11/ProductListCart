@@ -1,7 +1,7 @@
 # ProductListCart
 Product List Add to Shopping Cart using HTML, CSS, Javascript
 
-This code id used to add items from product list to shopping cart and vice versa.
+This code is used to add items from product list to shopping cart and vice versa.
 
 There are 3 main files:
 1. shoppingCartPage.html
